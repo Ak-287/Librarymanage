@@ -5,7 +5,7 @@ import { faWordpressSimple } from '@fortawesome/free-brands-svg-icons';
 function App(){
   return (
     <div className="text-gray-600"> 
-    Hello world
+    
     </div>
   );
 }
